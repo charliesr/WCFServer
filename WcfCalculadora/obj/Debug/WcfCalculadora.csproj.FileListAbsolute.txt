@@ -1,0 +1,7 @@
+C:\Users\carles.sanchez\source\repos\WCF-Training\WcfCalculadora\bin\Debug\WcfCalculadora.dll.config
+C:\Users\carles.sanchez\source\repos\WCF-Training\WcfCalculadora\bin\Debug\WcfCalculadora.dll
+C:\Users\carles.sanchez\source\repos\WCF-Training\WcfCalculadora\bin\Debug\WcfCalculadora.pdb
+C:\Users\carles.sanchez\source\repos\WCF-Training\WcfCalculadora\obj\Debug\WcfCalculadora.csprojAssemblyReference.cache
+C:\Users\carles.sanchez\source\repos\WCF-Training\WcfCalculadora\obj\Debug\WcfCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\carles.sanchez\source\repos\WCF-Training\WcfCalculadora\obj\Debug\WcfCalculadora.dll
+C:\Users\carles.sanchez\source\repos\WCF-Training\WcfCalculadora\obj\Debug\WcfCalculadora.pdb
